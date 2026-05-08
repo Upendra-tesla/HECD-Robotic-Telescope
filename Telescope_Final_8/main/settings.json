@@ -1,0 +1,20 @@
+{
+    "window_size": {
+        "width": 840,
+        "height": 580
+    },
+    "window_ratio": "84:58",
+    "tabs": {
+        "count": 5,
+        "row_count": 1,
+        "column_count": 5
+    },
+    "longitude": 118.7878,
+    "latitude": 32.0415,
+    "default_theme": "Dark",
+    "camera_settings": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "exposure": 1.0
+    }
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "version": "3.0",
+    "last_updated": "2026-03-17 02:28:25",
+    "trained_directions": 32,
+    "trained_altitudes": 7,
+    "confidence": 50,
+    "calibration_type": "delta_angles_32_13"
+  },
+  "current_position": {
+    "azimuth": 0.0,
+    "altitude": 90.0
+  },
+  "delta_tracking": {
+    "az_delta_reference": null,
+    "alt_delta_reference": null,
+    "current_az_delta": 0.0,
+    "current_alt_delta": 0.0,
+    "az_continuous": 0.0,
+    "az_crossings": 0
+  },
+  "calibration": {
+    "azimuth_calibration_delta_32": {},
+    "altitude_calibration_delta_13": {},
+    "adaptive_params_delta": {
+      "altitude_offset": 0.0,
+      "altitude_scale": 1.0,
+      "azimuth_amplitude": 128.5,
+      "azimuth_offset": -30.8,
+      "azimuth_phase": 89.2
+    }
+  },
+  "altitude_positions": [
+    "Horizon",
+    "Very Low",
+    "Low",
+    "Low-Mid",
+    "Mid-Low",
+    "Mid",
+    "Mid-High",
+    "High-Mid",
+    "High",
+    "Very High",
+    "Zenith"
+  ]
+}
