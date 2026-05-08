@@ -1,0 +1,358 @@
+{
+  "performance": {
+    "classical": {
+      "name": "classical",
+      "weight": 0.18332149730866262,
+      "correct": 0,
+      "incorrect": 44,
+      "accuracy": 0.5,
+      "adaptive_weight": 0.27832504811606384,
+      "confusion_matrix": {
+        "planet\u2192sun": 7,
+        "planet\u2192other": 8,
+        "planet\u2192clouds": 5,
+        "saturn\u2192moon": 1
+      },
+      "correction_patterns": [
+        {
+          "predicted": "planet",
+          "correct": "sun",
+          "confidence": 0.75,
+          "timestamp": 1776098048.7640038
+        },
+        {
+          "predicted": "planet",
+          "correct": "other",
+          "confidence": 0.75,
+          "timestamp": 1776098443.2732105
+        },
+        {
+          "predicted": "planet",
+          "correct": "sun",
+          "confidence": 0.75,
+          "timestamp": 1776098482.9510655
+        },
+        {
+          "predicted": "planet",
+          "correct": "other",
+          "confidence": 0.75,
+          "timestamp": 1776099321.2382877
+        },
+        {
+          "predicted": "planet",
+          "correct": "other",
+          "confidence": 0.75,
+          "timestamp": 1776099331.9373944
+        },
+        {
+          "predicted": "planet",
+          "correct": "sun",
+          "confidence": 0.75,
+          "timestamp": 1776110971.9662673
+        },
+        {
+          "predicted": "planet",
+          "correct": "other",
+          "confidence": 0.75,
+          "timestamp": 1776110987.7909634
+        },
+        {
+          "predicted": "planet",
+          "correct": "other",
+          "confidence": 0.75,
+          "timestamp": 1776111146.793292
+        },
+        {
+          "predicted": "planet",
+          "correct": "clouds",
+          "confidence": 0.75,
+          "timestamp": 1776111159.9753683
+        },
+        {
+          "predicted": "planet",
+          "correct": "clouds",
+          "confidence": 0.75,
+          "timestamp": 1776111189.8752952
+        },
+        {
+          "predicted": "planet",
+          "correct": "clouds",
+          "confidence": 0.75,
+          "timestamp": 1776111315.618106
+        },
+        {
+          "predicted": "planet",
+          "correct": "clouds",
+          "confidence": 0.75,
+          "timestamp": 1776111329.2655885
+        },
+        {
+          "predicted": "planet",
+          "correct": "sun",
+          "confidence": 0.75,
+          "timestamp": 1776129279.0216274
+        },
+        {
+          "predicted": "planet",
+          "correct": "other",
+          "confidence": 0.75,
+          "timestamp": 1776129330.658842
+        },
+        {
+          "predicted": "planet",
+          "correct": "other",
+          "confidence": 0.75,
+          "timestamp": 1776129343.7753258
+        },
+        {
+          "predicted": "planet",
+          "correct": "other",
+          "confidence": 0.75,
+          "timestamp": 1776129729.8400147
+        },
+        {
+          "predicted": "planet",
+          "correct": "sun",
+          "confidence": 0.75,
+          "timestamp": 1776129748.798695
+        },
+        {
+          "predicted": "planet",
+          "correct": "clouds",
+          "confidence": 0.75,
+          "timestamp": 1776129792.1408088
+        },
+        {
+          "predicted": "planet",
+          "correct": "sun",
+          "confidence": 0.75,
+          "timestamp": 1776136131.0797238
+        },
+        {
+          "predicted": "saturn",
+          "correct": "moon",
+          "confidence": 0.77,
+          "timestamp": 1776172242.578795
+        }
+      ],
+      "weight_history": [
+        0.2887963959928458,
+        0.2887963959928458,
+        0.2887963959928458,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.2835684876077598,
+        0.27832504811606384
+      ],
+      "accuracy_history": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "frozen_yolo": {
+      "name": "frozen_yolo",
+      "weight": 0.694464171152229,
+      "correct": 13,
+      "incorrect": 6,
+      "accuracy": 0.8181818181818182,
+      "adaptive_weight": 0.7315794652611057,
+      "confusion_matrix": {
+        "moon\u2192other": 3
+      },
+      "correction_patterns": [
+        {
+          "predicted": "moon",
+          "correct": "other",
+          "confidence": 0.8,
+          "timestamp": 1777651141.46511
+        },
+        {
+          "predicted": "moon",
+          "correct": "other",
+          "confidence": 0.8,
+          "timestamp": 1777651252.6993625
+        },
+        {
+          "predicted": "moon",
+          "correct": "other",
+          "confidence": 0.8,
+          "timestamp": 1777652195.6981177
+        }
+      ],
+      "weight_history": [
+        0.7020060066785903,
+        0.708672673345257,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7173858539870668,
+        0.7228403994416123,
+        0.7315794652611057
+      ],
+      "accuracy_history": [
+        0.7777777777777778,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8181818181818182,
+        0.8181818181818182
+      ]
+    },
+    "trainable_yolo": {
+      "name": "trainable_yolo",
+      "weight": 0.12221433153910836,
+      "correct": 0,
+      "incorrect": 0,
+      "accuracy": 0.5,
+      "adaptive_weight": 0.23555003207737585,
+      "confusion_matrix": {},
+      "correction_patterns": [],
+      "weight_history": [
+        0.24253093066189713,
+        0.24253093066189713,
+        0.24253093066189713,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23904565840517317,
+        0.23555003207737585
+      ],
+      "accuracy_history": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "custom_rules": [
+    {
+      "id": 1,
+      "condition": "was_planet_but_should_be_sun",
+      "result": "sun",
+      "confidence": 0.65,
+      "from_correction": true,
+      "created": "2026-04-14T00:40:56.151587"
+    },
+    {
+      "id": 2,
+      "condition": "was_nebula_but_should_be_sun",
+      "result": "sun",
+      "confidence": 0.65,
+      "from_correction": true,
+      "created": "2026-04-14T00:41:10.819626"
+    },
+    {
+      "id": 3,
+      "condition": "was_planet_but_should_be_moon",
+      "result": "moon",
+      "confidence": 0.65,
+      "from_correction": true,
+      "created": "2026-04-14T03:48:50.895603"
+    },
+    {
+      "id": 4,
+      "condition": "was_nebula_but_should_be_clouds",
+      "result": "clouds",
+      "confidence": 0.65,
+      "from_correction": true,
+      "created": "2026-04-14T04:10:45.851590"
+    },
+    {
+      "id": 5,
+      "condition": "was_nebula_but_should_be_other",
+      "result": "other",
+      "confidence": 0.65,
+      "from_correction": true,
+      "created": "2026-04-14T09:17:50.011361"
+    }
+  ],
+  "class_thresholds": {},
+  "consensus_history": [],
+  "last_updated": "2026-05-02T02:19:47.756216"
+}
