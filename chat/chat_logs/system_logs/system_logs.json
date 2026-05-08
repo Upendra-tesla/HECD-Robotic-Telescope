@@ -1,0 +1,610 @@
+[
+  {
+    "timestamp": "2026-04-20T15:53:44.643040",
+    "session_id": "20260420_155344",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260420_155344",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-20T15:53:44.652631",
+    "session_id": "20260420_155344",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260420_155344",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-20T15:53:50.703055",
+    "session_id": "20260420_155344",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features initialized",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-20T15:53:50.703467",
+    "session_id": "20260420_155344",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Fetching available models from Ollama",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-20T15:53:50.868602",
+    "session_id": "20260420_155344",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Found 4 models: qwen2.5:1.5b, qwen3:0.6b, deepseek-r1:1.5b, tinyllama:latest",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-20T19:32:58.009949",
+    "session_id": "20260420_193258",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260420_193258",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-20T19:32:58.022309",
+    "session_id": "20260420_193258",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260420_193258",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-20T19:32:58.152680",
+    "session_id": "20260420_193258",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features initialized",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-20T19:32:58.153227",
+    "session_id": "20260420_193258",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Fetching available models from Ollama",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-20T19:32:58.384888",
+    "session_id": "20260420_193258",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Found 4 models: qwen2.5:1.5b, qwen3:0.6b, deepseek-r1:1.5b, tinyllama:latest",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-21T00:51:11.488569",
+    "session_id": "20260421_005111",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260421_005111",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-21T00:51:11.497451",
+    "session_id": "20260421_005111",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260421_005111",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-21T00:56:45.364157",
+    "session_id": "20260421_005111",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features initialized",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-21T00:56:45.364999",
+    "session_id": "20260421_005111",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Fetching available models from Ollama",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-21T00:56:45.552564",
+    "session_id": "20260421_005111",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Found 4 models: qwen2.5:1.5b, qwen3:0.6b, deepseek-r1:1.5b, tinyllama:latest",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-22T23:44:58.278103",
+    "session_id": "20260422_234458",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260422_234458",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-22T23:44:58.306403",
+    "session_id": "20260422_234458",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260422_234458",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-22T23:53:20.190233",
+    "session_id": "20260422_234458",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features initialized",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-22T23:53:20.191620",
+    "session_id": "20260422_234458",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Fetching available models from Ollama",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-22T23:53:20.545996",
+    "session_id": "20260422_234458",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Found 4 models: qwen2.5:1.5b, qwen3:0.6b, deepseek-r1:1.5b, tinyllama:latest",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T10:46:29.111774",
+    "session_id": "20260426_104629",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_104629",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T10:46:29.143535",
+    "session_id": "20260426_104629",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_104629",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T11:27:30.953495",
+    "session_id": "20260426_104629",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features initialized",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T11:27:30.954162",
+    "session_id": "20260426_104629",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Fetching available models from Ollama",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T11:27:31.378884",
+    "session_id": "20260426_104629",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Found 4 models: qwen2.5:1.5b, qwen3:0.6b, deepseek-r1:1.5b, tinyllama:latest",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T11:52:43.722914",
+    "session_id": "20260426_104629",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features cleaned up",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T11:52:48.217876",
+    "session_id": "20260426_115248",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_115248",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T11:52:48.224849",
+    "session_id": "20260426_115248",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_115248",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:12:30.989676",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_121230",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:12:30.992226",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_121230",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:13:34.916167",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features initialized",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:13:34.916849",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Fetching available models from Ollama",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:13:35.081682",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Found 4 models: qwen2.5:1.5b, qwen3:0.6b, deepseek-r1:1.5b, tinyllama:latest",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:14:10.722414",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "Language",
+    "message": "Language changed to नेपाली",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:14:30.065810",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: qwen2.5:1.5b - Only Qwen supports नेपाली language",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:14:30.069870",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: qwen2.5:1.5b - Only Qwen supports नेपाली language",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:15:48.343261",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: qwen2.5:1.5b - Only Qwen supports नेपाली language",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:15:48.347491",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: qwen2.5:1.5b - Only Qwen supports नेपाली language",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:15:55.876121",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-model selection disabled",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:33:04.183265",
+    "session_id": "20260426_121230",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features cleaned up",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:36:51.876726",
+    "session_id": "20260426_123651",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_123651",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:36:51.880385",
+    "session_id": "20260426_123651",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_123651",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:36:57.678694",
+    "session_id": "20260426_123651",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features initialized",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:36:57.679622",
+    "session_id": "20260426_123651",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Fetching available models from Ollama",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:36:57.843211",
+    "session_id": "20260426_123651",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Found 4 models: qwen2.5:1.5b, qwen3:0.6b, deepseek-r1:1.5b, tinyllama:latest",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:37:01.095434",
+    "session_id": "20260426_123651",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-model selection disabled",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:37:09.891890",
+    "session_id": "20260426_123651",
+    "level": "INFO",
+    "component": "Language",
+    "message": "Language changed to हिन्दी",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T12:43:26.056122",
+    "session_id": "20260426_123651",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Model switched: qwen2.5:1.5b → deepseek-r1:1.5b (Manual selection)",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T13:18:27.714934",
+    "session_id": "20260426_123651",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features cleaned up",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:02:13.256174",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_180213",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:02:13.258900",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260426_180213",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:02:18.566555",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features initialized",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:02:18.568609",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Fetching available models from Ollama",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:02:18.728957",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Found 4 models: qwen2.5:1.5b, qwen3:0.6b, deepseek-r1:1.5b, tinyllama:latest",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:02:47.100710",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: tinyllama:latest - Simple query detected: \"no\"",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:02:47.102622",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Model switched: qwen2.5:1.5b → tinyllama:latest (Manual selection)",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:02:47.284020",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: tinyllama:latest - Simple query detected: \"no\"",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:04:36.742613",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: tinyllama:latest - Simple query detected: \"hi\"",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:04:36.746803",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: tinyllama:latest - Simple query detected: \"hi\"",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:05:53.993346",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: qwen2.5:1.5b - General purpose query",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:05:53.995293",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Model switched: tinyllama:latest → qwen2.5:1.5b (Manual selection)",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:05:54.000570",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-selected: qwen2.5:1.5b - General purpose query",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T18:06:03.346362",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "AutoSelector",
+    "message": "Auto-model selection disabled",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-04-26T23:53:04.738579",
+    "session_id": "20260426_180213",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features cleaned up",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:44:16.777736",
+    "session_id": "20260501_234416",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260501_234416",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:44:16.811015",
+    "session_id": "20260501_234416",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260501_234416",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:45:01.374850",
+    "session_id": "20260501_234416",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features initialized",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:45:01.376623",
+    "session_id": "20260501_234416",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Fetching available models from Ollama",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:45:01.777372",
+    "session_id": "20260501_234416",
+    "level": "INFO",
+    "component": "ModelManager",
+    "message": "Found 4 models: qwen2.5:1.5b, qwen3:0.6b, deepseek-r1:1.5b, tinyllama:latest",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:57:32.998819",
+    "session_id": "20260501_234416",
+    "level": "INFO",
+    "component": "AIChatFeatures",
+    "message": "AI Chat Features cleaned up",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:57:34.361792",
+    "session_id": "20260501_235734",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260501_235734",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:57:34.365465",
+    "session_id": "20260501_235734",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260501_235734",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:59:46.905657",
+    "session_id": "20260501_235946",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260501_235946",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-01T23:59:46.909736",
+    "session_id": "20260501_235946",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260501_235946",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-02T00:15:19.423724",
+    "session_id": "20260502_001519",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260502_001519",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-05-02T00:15:19.427857",
+    "session_id": "20260502_001519",
+    "level": "INFO",
+    "component": "ChatTab",
+    "message": "Session started: 20260502_001519",
+    "details": {}
+  }
+]
