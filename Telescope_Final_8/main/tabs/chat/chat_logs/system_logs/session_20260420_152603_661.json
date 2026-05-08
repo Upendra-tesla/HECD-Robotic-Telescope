@@ -1,0 +1,21 @@
+{
+  "session_id": "20260420_152603_661",
+  "start_time": "2026-04-20T15:26:03.661058",
+  "log_files": {
+    "system_log": "/home/Upendra/Desktop/Telescope_Robotic/Telescope_Final_8/main/tabs/chat/chat_log/system_logs/session_20260420_152603_661.json",
+    "conversation_log": "/home/Upendra/Desktop/Telescope_Robotic/Telescope_Final_8/main/tabs/chat/chat_log/conversation_logs/conversations_20260420_152603_661.json"
+  },
+  "system_info": {
+    "os": "Linux",
+    "os_version": "#1 SMP PREEMPT Debian 1:6.12.62-1+rpt1 (2025-12-18)",
+    "python_version": "3.13.5",
+    "hostname": "teslapii",
+    "platform": "Linux-6.12.62+rpt-rpi-2712-aarch64-with-glibc2.41"
+  },
+  "last_update": "2026-04-20T15:26:03.661598",
+  "timestamp": "2026-04-20T15:26:03.661507",
+  "level": "INFO",
+  "component": "ChatTab",
+  "message": "Session started: 20260420_152603_661",
+  "details": {}
+}
