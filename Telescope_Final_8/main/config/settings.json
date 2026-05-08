@@ -1,0 +1,54 @@
+{
+    "window_size": {
+        "width": 850,
+        "height": 570
+    },
+    "default_theme": "Dark",
+    "longitude": 118.7878,
+    "latitude": 32.0415,
+    "camera_settings": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "exposure": 1.0
+    },
+    "tabs": {
+        "count": 5,
+        "row_count": 1,
+        "column_count": 5
+    },
+    "detection_settings": {
+        "default_confidence": 0.25,
+        "max_detections": 1000,
+        "auto_save_results": true,
+        "default_method": "astro_parallel_net",
+        "star_detection": {
+            "min_area": 1,
+            "max_area": 200,
+            "min_circularity": 0.2,
+            "min_contrast": 40
+        },
+        "galaxy_detection": {
+            "min_area": 3,
+            "max_area": 50,
+            "min_aspect_ratio": 1.5,
+            "confidence": 0.55
+        },
+        "nebula_detection": {
+            "min_area": 50,
+            "max_area": 5000,
+            "min_gradient": 5,
+            "confidence": 0.65
+        }
+    },
+    "ai_settings": {
+        "default_model": "deepseek-r1:1.5b",
+        "recommended_models": [
+            "deepseek-r1:1.5b",
+            "deepseek-coder:1.3b",
+            "tinyllama:latest",
+            "phi3:mini"
+        ],
+        "ollama_host": "http://localhost:11434",
+        "keep_alive_seconds": 600
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "window_size": {
+        "width": 850,
+        "height": 570
+    },
+    "default_theme": "Dark",
+    "longitude": 118.7878,
+    "latitude": 32.0415,
+    "camera_settings": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "exposure": 1.0
+    }
+}
